@@ -1,29 +1,29 @@
 {
-  "name": "sum-math-deo",
+  "name": "project-tea-core-math",
   "version": "1.0.2",
   "description": "my package",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
     "axios": "^0.21.4",
-    "deotheme": "^1.0.0",
-    "deo-vector-math": "^1.0.0",
-    "deo-big-factorial": "^1.0.0",
-    "summathd": "^1.0.0",
+    "helertheme": "^1.0.0",
+    "heler-vector-core": "^1.0.0",
+    "heler-big-factorial": "^1.0.0",
+    "helersummathd": "^1.0.0",
     "mysumd": "^1.0.0",
-    "sum-math-deo2": "^1.0.0"
+    "project-tea-core-math2": "^1.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xuandieu1210/sum-math.git"
+    "url": "git+https://github.com/helerhoang/project-tea-core-math.git"
   },
   "bugs": {
-    "url": "https://github.com/xuandieu1210/sum-math/issues"
+    "url": "https://github.com/helerhoang/project-tea-core-math/issues"
   },
-  "homepage": "https://github.com/xuandieu1210/sum-math#readme",
+  "homepage": "https://github.com/helerhoang/project-tea-core-math#readme",
   "scripts": {
     "test": "test"
   },
-  "author": "xuandieu1210",
+  "author": "helerhoang",
   "license": "ISC"
 }
