@@ -1,2 +1,2 @@
-const sum = (a, b) => a + b
-exports.sum = sum
+const core = (a, b) => a * b
+exports.core = core
