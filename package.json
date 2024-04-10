@@ -1,5 +1,5 @@
 {
-  "name": "project-tea-core-math",
+  "name": "project-tea-core-math2",
   "version": "1.0.2",
   "description": "my package",
   "main": "index.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helerhoang/project-tea-core-math.git"
+    "url": "git+https://github.com/helerhoang/project-tea-core-math2.git"
   },
   "bugs": {
-    "url": "https://github.com/helerhoang/project-tea-core-math/issues"
+    "url": "https://github.com/helerhoang/project-tea-core-math2/issues"
   },
-  "homepage": "https://github.com/helerhoang/project-tea-core-math#readme",
+  "homepage": "https://github.com/helerhoang/project-tea-core-math2#readme",
   "scripts": {
     "test": "test"
   },
